@@ -1,5 +1,3 @@
-# sabado22
-
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1",Gol Peru
@@ -78,7 +76,7 @@ http://magmas5.com:8000/live/malotv/gratis/150078.m3u8
 
 #EXTINF:-1 tvg-chno="13",Hbo Family
 
-http://magmas5.com:8000/live/malotv/gratis/150079.m3u8
+https://is-curuzu.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
 
 #EXTM3U
 
@@ -857,3 +855,86 @@ https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?checkedby:iptv
 #EXTINF:-1 tvg-chno="125" ,Peliculas Sicuani
 
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="126" ,Oriental tv
+
+https://list.iptvcat.com/my_list/s/a803197e5bb85a35b350c51415fe7086.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="127" ,Ovacion tv
+
+https://list.iptvcat.com/my_list/s/5db5f8d166b2cdebe618c34a4cb62db2.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="128" ,Proyecta tv
+
+https://list.iptvcat.com/my_list/s/dc7fa3883919c1ed9646eb2679e2aecd.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="129" ,Quillavision tv
+
+https://list.iptvcat.com/my_list/s/0ce5050b43ab7985d2a59fb1e03574d4.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="130" ,Callao tv
+
+https://list.iptvcat.com/my_list/s/f911013a4401461854b179c4bd14778a.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="131" ,Palmeras tv
+
+
+https://list.iptvcat.com/my_list/s/d963e86d94231d1a00d3bfd410ca9e83.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="132" ,Planeta tv Kidz
+
+https://list.iptvcat.com/my_list/s/f9c507c7f54d1821d977e1f194ea80f6.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="132" ,SSc1 hd arabe
+
+https://list.iptvcat.com/my_list/s/0a3fac2c10e83322e02993841a8084f4.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="133" ,Uranio Tv Yurimaguas
+
+https://list.iptvcat.com/my_list/s/a74f155f140f235e7c9f234bdbc1d9a4.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="134" ,Ribereña Pucallpa
+
+https://list.iptvcat.com/my_list/s/fdaf3386bcbfe601f0e32738ab4087d6.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="135" ,Tvx Anime
+
+https://list.iptvcat.com/my_list/s/0281aea2b8f5bf2f247d9e2e5fd5607e.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="136" ,Dios tv infantil
+
+https://list.iptvcat.com/my_list/s/0b5f8000e45542ea8d533823e3bfaf81.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="136" ,wtv
+
+https://list.iptvcat.com/my_list/s/994a3dafdad569f8aeb0155f7dfd5abd.m3u8
+
+
+
