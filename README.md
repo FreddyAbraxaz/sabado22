@@ -1,4 +1,4 @@
-#EXTM3U
+##EXTM3U
 
 #EXTINF:-1 tvg-chno="1",Gol Peru
 
@@ -903,25 +903,5 @@ https://live.obslivestream.com/uraniotv/index.m3u8?checkedby:iptvcat.com
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canaltvx&checkedby:iptvcat.com
 
 
-#EXTM3U
-#EXTINF:0 tvg-country="HN" tvg-logo="" group-title="Undefined",Dios Te Ve Infantil (720p)
-https://emisoras.hn:8081/diostevekids/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="133" ,Dios tv infantil
-
-https://list.iptvcat.com/my_list/s/0b5f8000e45542ea8d533823e3bfaf81.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-country="HN" tvg-logo="" group-title="Undefined",Dios Te Ve Infantil (720p)
-https://emisoras.hn:8081/diostevekids/playlist.m3u8?checkedby:iptvcat.com
-
-
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="136" ,wtv
-
-https://list.iptvcat.com/my_list/s/994a3dafdad569f8aeb0155f7dfd5abd.m3u8
 
 
