@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-chno="1",Gol Peru
 
@@ -913,9 +914,7 @@ https://list.iptvcat.com/my_list/s/0a3fac2c10e83322e02993841a8084f4.m3u8
 https://live.obslivestream.com/uraniotv/index.m3u8?checkedby:iptvcat.com
 
 #EXTM3U
-
-#EXTINF:-1 tvg-chno="134" ,Ribereña Pucallpa
-
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;BH;BB;CL;CO;DK;FR;GE;OM" tvg-logo="https://i.imgur.com/Qusd5mT.png" group-title="Undefined;FRANCE",La Ribereña (Pucallpa) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8070/index.m3u8?checkedby:iptvcat.com
 
 #EXTM3U
